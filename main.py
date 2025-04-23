@@ -17,6 +17,7 @@ LONG_BREAK_MIN = 20
 
 # ---------------------------- UI SETUP ------------------------------- #
 
+
 window = tk.Tk()
 window.title("Pomodoro")
 window.config(padx=100, pady=50, bg=YELLOW)
